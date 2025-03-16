@@ -17,17 +17,8 @@ Full Stack Developer with extensive experience in web development and hardware t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" height="45"/>
-
-
 </p>
 
-
-## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abzakcd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="abzakcd's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abzakcd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="abzakcd's GitHub Stats" />
-</p>
----
 
 
 Thanks for visiting my profile!
